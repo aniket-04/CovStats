@@ -1,7 +1,7 @@
 # CovStats
 
 ### Setup
-- Get inside the directory and run `npm install` to install all the required dependcies.
+- Get inside the directory and run `npm install` to install all the required dependencies.
   ```
   $ npm install
   ```
